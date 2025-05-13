@@ -8,7 +8,7 @@
   }
 
   progress::-webkit-progress-value {
-    @apply bg-blue-500;
+    @apply bg-blue-200;
   }
 
   progress::-moz-progress-bar {
